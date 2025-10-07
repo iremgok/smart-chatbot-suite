@@ -2,7 +2,7 @@
 
 AI-powered chatbot application with advanced features: compare XML files, generate and export content in PDF, DOCX, Excel, and JSON formats. Integrated with OpenAI for intelligent responses and multi-format data handling. Perfect for automation, content generation, and AI experimentation projects.
 
-## 🚀 Features
+## Features
 
 - **Chatbot:** Interact with AI using OpenAI API for intelligent responses.
 - **XML Comparison:** Compare two XML files and highlight differences.
@@ -15,7 +15,7 @@ AI-powered chatbot application with advanced features: compare XML files, genera
 - **User-Friendly GUI:** Built with `customtkinter` for smooth interactions.
 - **Threaded Operations:** Heavy tasks run in background threads to keep UI responsive.
 
-## 🛠 Technologies
+## Technologies
 
 - Python 3.11
 - `customtkinter`, `tkinter` (GUI)
@@ -27,10 +27,3 @@ AI-powered chatbot application with advanced features: compare XML files, genera
 - `json` (JSON handling)
 - `Pillow` (image handling)
 - `threading` (background tasks)
-
-## 💻 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/chatbot-project.git
-cd chatbot-project
